@@ -1,0 +1,5 @@
+﻿.vs
+/x64/
+*.filters
+clang_rt.asan_*dynamic-x86_64.*
+*.user
